@@ -3,7 +3,7 @@ arrayDefaultColumHidden:['id_fecha_reg','id_fecha_mod',
 'id_depto','numero','obs','id_funcionario_aprobador','desc_funcionario_rpc','fecha_apro','id_categoria_compra','justificacion',
 'lugar_entrega','fecha_inicio','dias_plazo_entrega','posibles_proveedores','comite_calificacion','extendida', ''],
 
-
+aaaaaaa
 
 
 rowExpander: new Ext.ux.grid.RowExpander({
